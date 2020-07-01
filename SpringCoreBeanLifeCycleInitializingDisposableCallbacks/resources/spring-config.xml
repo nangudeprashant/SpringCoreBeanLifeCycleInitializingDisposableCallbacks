@@ -10,7 +10,7 @@
 		base-package="com.javaLive.beans" />
 
 	<bean id="personBean" class="com.javalive.beans.Person">
-		<property name="name" value="Dummy Person" />
+		<property name="name" value="PersonName" />
 	</bean>
 
 </beans>
