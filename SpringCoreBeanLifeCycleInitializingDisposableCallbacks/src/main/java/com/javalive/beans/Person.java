@@ -4,7 +4,7 @@ import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.InitializingBean;
 
 /**
- * @author Administrator
+ * @author JavaLive.com
  *
  */
 public class Person implements InitializingBean,DisposableBean{
